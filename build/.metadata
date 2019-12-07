@@ -1,0 +1,10 @@
+{
+  "author" : "DeltaV Δ",
+  "description" : "A parody of the [url=https://mothership.sg/2019/05/sgsecure-funny-reviews-new/]SGSecure meme[/url], Starbound-fied.\n\nThis mod contains an incredibly powerful phone that can be used to whack any criminal out of existence, the patriotic way. Made as an inside joke that fellow Singaporean Starbounders will know.\n\nThe weapon functions identically to a hammer, just with ridiculous damage, and plays an 8-bit snippet of Singapore's national anthem. Only spawnable through admin commands:\n\n[code]/spawnitem sgsecure[/code]\n\nInspiration and Pixel Art Credits: [url=https://steamcommunity.com/profiles/76561198093964182]Reggel[/url]",
+  "friendlyName" : "SGSecure Phone",
+  "link" : "steam://url/CommunityFilePage/1859165005",
+  "name" : "sgsecure",
+  "steamContentId" : "1859165005",
+  "tags" : "Weapons|Cheats and God Items",
+  "version" : "0.1.0"
+}
